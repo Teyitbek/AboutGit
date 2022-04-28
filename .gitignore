@@ -1,0 +1,7 @@
+### comments
+# also comments
+_pychace_/      - will hide Folder
+*py[cod]
+docker-compose.yaml
+log/
+resourse/catalog/file.html
