@@ -1,0 +1,7 @@
+### comments
+# folder/comments
+_pychache_/      - file will not tracked
+*.py[cod]   - all file with endIndex py will not tracked
+log/
+resourse/production.json
+docker-compose.yaml
