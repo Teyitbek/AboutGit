@@ -14,3 +14,6 @@ print("git commit -am "message"  - add & commit")
 print("git mv fileName /Folder/user  - replace")
 print("git restore --staged filename   - cancel last changes in index ") 
 print("git clone link  - let get code from git")
+print("git push origin branch   - send to server")
+print("git pull origin branch   - get from server")
+
