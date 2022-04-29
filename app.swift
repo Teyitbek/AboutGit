@@ -12,5 +12,5 @@ print("git log  - show commits ")
 print("i = print, (esc + : + x) = save")
 print("git commit -am "message"  - add & commit")
 print("git mv fileName /Folder/user  - replace")
-print("git restore --staged filename   - cancel last changes in index ")
- 
+print("git restore --staged filename   - cancel last changes in index ") 
+print("git clone link  - let get code from git")
