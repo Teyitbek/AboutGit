@@ -17,3 +17,5 @@ print("git clone link  - let get code from git")
 print("git push origin branch   - send to server")
 print("git pull origin branch   - get from server")
 
+print("git remote add origin git@github.com:Teyitbek/AboutGit.git")
+print("use above when creating & connect")
